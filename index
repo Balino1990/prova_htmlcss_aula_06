@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clube do Livro</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Cadastro no Clube do Livro</h1>
+        <form class="login-form">
+            <div class="input-usuario">
+                <label id="nome-usuario" for="username">Nome do Leitor</label>
+                <input type="text" id="username" placeholder="Digite seu nome completo" required>
+            </div>
+            <div class="input-usuario">
+                <label id="senha-usuario" for="password">Código de Acesso</label>
+                <input type="password" id="password" placeholder="Crie seu código" required>
+            </div>
+            <div class="form-botoes">
+                <button type="submit" class="botao">Entrar</button>
+                <button type="reset" class="botao">Limpar</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
