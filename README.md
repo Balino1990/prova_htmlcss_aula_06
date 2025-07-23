@@ -1,4 +1,4 @@
-#Cadastro no Clube do Livro
+# Cadastro no Clube do Livro
 Este projeto consiste em uma página de cadastro responsiva e estilizada com CSS, feita especialmente para um clube de leitura. Ele demonstra o uso de formulários, pseudo-elementos CSS, responsividade com Media Queries e estilizações modernas com bordas arredondadas e sombras.
 
 Funcionalidades
